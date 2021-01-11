@@ -1,5 +1,8 @@
 _repo: Femmes-nouvelles_64144
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64144-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Margueritte, V. (Victor)
@@ -23,6 +26,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Paul_Margueritte
     - https://en.wikipedia.org/wiki/Paul_Margueritte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64144#Femmes-nouvelles
 gutenberg_issued: '2020-12-27'
 gutenberg_type: Text
 identifiers:
