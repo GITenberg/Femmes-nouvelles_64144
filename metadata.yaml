@@ -1,0 +1,39 @@
+_repo: Femmes-nouvelles_64144
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Margueritte, V. (Victor)
+    aliases:
+    - Marguerite, V. (Victor)
+    - Marguerite, Victor
+    - Margueritte, Victor
+    birthdate: 1866
+    deathdate: 1942
+    gutenberg_agent_id: '45656'
+    url: http://www.gutenberg.org/2009/agents/45656
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Victor_Margueritte
+    - https://fr.wikipedia.org/wiki/Victor_Margueritte
+  - agent_name: Margueritte, Paul
+    birthdate: 1860
+    deathdate: 1918
+    gutenberg_agent_id: '32522'
+    url: http://www.gutenberg.org/2009/agents/32522
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Paul_Margueritte
+    - https://en.wikipedia.org/wiki/Paul_Margueritte
+description: ''
+gutenberg_issued: '2020-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64144'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+- GITenberg
+title: Femmes nouvelles
+url: http://www.gutenberg.org/ebooks/64144
